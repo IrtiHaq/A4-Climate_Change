@@ -1,0 +1,14 @@
+name: a4-climate-change-IrtiHaq
+title: a4-climate-change-IrtiHaq
+username:
+account: afdb75-irtihaq
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5265208
+bundleId: 5326349
+url: https://afdb75-irtihaq.shinyapps.io/a4-climate-change-IrtiHaq/
+when: 1638603998.94889
+lastSyncTime: 1638603998.94889
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|LICENSE|README.md
